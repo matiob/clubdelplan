@@ -7,11 +7,6 @@ Native Android application oriented to the organization and resolution of social
 ### See Demo
 [![Alt text](https://img.youtube.com/vi/ArMrNzQrUKY/0.jpg)](https://www.youtube.com/watch?v=ArMrNzQrUKY)
 
-
-<p align="left">
-<a href="https://www.youtube.com/watch?v=ArMrNzQrUKY&ab_channel=CIUDADAN%C3%8DAYPOL%C3%8DTICA" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRceerNYbY2u18Hhb-dL3FOr4qsI0i6vGumg&usqp=CAU" width="36" height="36" alt="demo" /></a>
-</p>
-
 ### Stack
 
 <p align="left">
